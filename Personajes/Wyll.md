@@ -1,0 +1,2 @@
+Conocido por primera vez en la [[Arboleda Esmeralda]], éste personaje se presenta como el **Filo de las fronteras**. 
+Hace un tiempo Wyll, hizo un trato con [[Mizora]], vendiéndole su alma a cambio de obtener poderes para poder defender las fronteras. Sin embargo ésta se entera de que Wyll la desobedece con su órden de matar a [[Karlach]] y le castiga dándole aparienza de [[tiefling]].

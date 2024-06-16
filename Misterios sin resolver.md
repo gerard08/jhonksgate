@@ -1,0 +1,3 @@
+- [ ] El [[buey raro]] es un personaje encontrado en la [[Arboleda Esmeralda]] que sabemos que es alguien disfrazado de buey pero no nos quiere dar mas información.
+- [ ] La [[caja importante]] es una caja situada en la [[Arboleda Esmeralda]] que sabemos que contiene algo de gran valor pero no hemos podido recuperar.
+- [ ] En la aldea goblin hay una forja que permite hacer [[armas poderosas]], sin embargo, necesitamos [[Sussur]], un material que solo se encuentra en el [[underdark]].

@@ -1,0 +1,2 @@
+Encontrado por primera vez en la [[Arboleda Esmeralda]].
+hablando con él nos informa de que se dirige a la [[puerta de Baldurs]], pero que no tiene ninguna intención en proporcionarnos mas información que no sea "Muu".

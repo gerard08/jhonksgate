@@ -1,0 +1,1 @@
+Es una fortaleza situada en medio del bosque donde viven los druidas. Ésta está gobernada por [[Halsin]], aunque hace un tiempo que éste ha desaparecido y ahora está bajo el control de [[Kagha]].

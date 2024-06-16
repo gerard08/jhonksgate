@@ -1,0 +1,1 @@
+Amuleto con forma del dios [[Sylvanus]] que los druidas de la [[Arboleda Esmeralda]] usan para practicar un ritual con la intenció de expulsar a los tieflings de su guarida.

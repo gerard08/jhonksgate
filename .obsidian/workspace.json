@@ -4,33 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "14146e7fa5e5efe1",
+        "id": "a3200f56bf9c8d81",
         "type": "tabs",
         "children": [
           {
-            "id": "6da644e5f7f68cd7",
+            "id": "169711ed9b1f4c14",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Personajes/Karlach.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "e88e7f1d1c2f0b54",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "28956d11f87e07e9",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Personajes/Karlach.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Personajes/Karlach.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "Personajes/Karlach.md"
               }
             }
           }
@@ -160,9 +146,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6da644e5f7f68cd7",
+  "active": "169711ed9b1f4c14",
   "lastOpenFiles": [
-    "Nuevo Documento de texto.txt",
-    "Welcome.md"
+    "Personajes/Zariel.md",
+    "Personajes/Karlach.md",
+    "Misterios sin resolver.md",
+    "Diario.md",
+    "per.md",
+    "Sitios/Arboleda Esmeralda.md",
+    "Imágenes",
+    "Imágenes/Imagen de WhatsApp 2024-06-16 a las 01.35.56_7fd2614e.jpg",
+    "Personajes/Sylvanus.md",
+    "Sitios",
+    "Objetos/amuleto de sylvanus.md",
+    "Personajes/Wyll.md",
+    "goblins.md",
+    "Razas",
+    "Razas/druida.md",
+    "Personajes/buey raro.md",
+    "Objetos",
+    "Personajes",
+    "karlach.md",
+    "create a link.md",
+    "Nuevo Documento de texto.txt"
   ]
 }
